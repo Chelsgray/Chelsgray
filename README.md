@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [chelseaharding.com](chelseaharding.com)
 
-- 📫 How to reach me **hello@chelseaharding.com**
+- 📫 How to reach me **chelseaharding.dev@gmail.com**
 
 - ⚡ Fun fact **I love all things soccer!**
 
