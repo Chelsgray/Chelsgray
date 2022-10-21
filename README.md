@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/chelsea_codes" target="blank"><img src="https://img.shields.io/twitter/follow/chelsea_codes?logo=twitter&style=for-the-badge" alt="chelsea_codes" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.chelseaharding.com/](https://www.chelseaharding.com/)
+- 👨‍💻 All of my projects are available at [www.chelseaharding.com/](https://www.chelseaharding.com/)
 
 - 📫 How to reach me **chelseaharding.dev@gmail.com**
 
